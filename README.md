@@ -17,7 +17,6 @@
 3. Click on `Web App`
  ![image](./04-09-new.png)
  
- 
  4. Change your app name to something you want. The URL will be `whatyouchoose.azurewebsites.net` and add the same name for the `New Resource Group Name`
  5. Click on `App Service` and click on `+ Create New` in the next tab
  6. Add an `App Service Plan` name. I suggest `east-asia`
