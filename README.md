@@ -9,7 +9,7 @@
 2. Add those files to your git repo and push it up to github
 
 ### Deploying!
-0. Visit https://portal.azure.com/
+- Visit https://portal.azure.com/
  ![image](./01-03.png)
 
 1. Click on `+ New`
