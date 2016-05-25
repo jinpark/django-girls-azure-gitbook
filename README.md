@@ -63,7 +63,7 @@
 29. After `Python 3.4.3 ...` appears, press enter on your keyboard
 30. Type in `from django.contrib.auth.models import User` and press enter
 31. Type in `User.objects.create_superuser('USERNAME', 'EMAILADDRESS', 'PASSWORD')` MAKE SURE YOU CHANGE THE USERNAME, EMAIL ADDRESS AND PASSWORD. And press enter
-32. Type in `exit()` and press enter. Go back to the previous tab/window where the Azure Dashbaord is
+32. Type in `exit()` and press enter. Go back to the previous tab/window where the Azure Dashboard is
 ![image](./33.png)
 
 33. Click on the URL and visit your new site LIVE on the internet!
