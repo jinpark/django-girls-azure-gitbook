@@ -9,6 +9,9 @@
 2. Add those files to your git repo and push it up to github
 
 ### Deploying!
-0. Visit https://portal.azure.com/
-1. ![image](01-03.png)
-2. 
+0. Visit https://portal.azure.com/ ![image](./01-03.png)
+1. Click on `+ New`
+2. Click on `Web + Mobile`
+3. Click on `Web App`
+ ![image](./04-09.png)
+ 4. Change your app name to 
