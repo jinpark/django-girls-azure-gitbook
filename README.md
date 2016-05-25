@@ -10,36 +10,37 @@
 
 ### Deploying!
 - Visit https://portal.azure.com/
- ![image](./01-03.png)
+
+![image](./01-03.png)
 
 1. Click on `+ New`
 2. Click on `Web + Mobile`
 3. Click on `Web App`
  ![image](./04-09-new.png)
  
- 4. Change your app name to something you want. The URL will be `whatyouchoose.azurewebsites.net` and add the same name for the `New Resource Group Name`
- 5. Click on `App Service` and click on `+ Create New` in the next tab
- 6. Add an `App Service Plan` name. I suggest `east-asia`
- 7. Click on `Location` and choose `East Asia`
- 8. Click on `OK`
- 9. Click on `Pin to dashboard` and then click `Create` and wait :)
+4. Change your app name to something you want. The URL will be `whatyouchoose.azurewebsites.net` and add the same name for the `New Resource Group Name`
+5. Click on `App Service` and click on `+ Create New` in the next tab
+6. Add an `App Service Plan` name. I suggest `east-asia`
+7. Click on `Location` and choose `East Asia`
+8. Click on `OK`
+9. Click on `Pin to dashboard` and then click `Create` and wait :)
  ![image](./10-14.png)
  
- 10. After the app has been created, type in `github` in the settings search bar
- 11. Click on `Deployment Source`
- 12. Click on `Choose Source` and choose `Github` 
- 13. Click on `Authorization`
- 14. Click on `Authorize` and click `Approve`
+10. After the app has been created, type in `github` in the settings search bar
+11. Click on `Deployment Source`
+12. Click on `Choose Source` and choose `Github` 
+13. Click on `Authorization`
+14. Click on `Authorize` and click `Approve`
  
  ![image](./15-17.png)
  
- 15. Click on `Choose Project`
- 16. Click on your Django Girls blog project on the right side
- 17. Click on `OK`.
+15. Click on `Choose Project`
+16. Click on your Django Girls blog project on the right side
+17. Click on `OK`.
  
  ![image](./18.png)
  
- 18. Wait for your project to build. It will take a few minutes. Take a break!
+18. Wait for your project to build. It will take a few minutes. Take a break!
 
 ![image](./19-20.png)
 
