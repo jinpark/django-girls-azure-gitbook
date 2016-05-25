@@ -41,36 +41,29 @@
  ![image](./18.png)
  
 18. Wait for your project to build. It will take a few minutes. Take a break!
-
 ![image](./19-20.png)
 
 19. Click on the `Microsoft Azure` logo to go back to the dashboard
 20. Click on your newly created app.
-
 ![image](./21-23.png)
 
 21. Click on `Tools`
 22. Click on `Kudu`
 23. Click on `Go ->` and it will open a new tab/window.
-
 ![image](./24-25.png)
 
 24. Click on `Debug Console`
 25. Click on `PowerShell`
-
 ![image](./26-27.png)
 
 26. Within the console, type in `cd site\wwwroot`
 27. Then type in `env\Scripts\python manage.py migrate` and then wait for the migration to finish
-
 ![image](./28-32-new.png)
-
 28. To create the superuser on the site, Type in `env\Scripts\python manage.py shell`
 29. After `Python 3.4.3 ...` appears, press enter on your keyboard
 30. Type in `from django.contrib.auth.models import User` and press enter
 31. Type in `User.objects.create_superuser('USERNAME', 'EMAILADDRESS', 'PASSWORD')` MAKE SURE YOU CHANGE THE USERNAME, EMAIL ADDRESS AND PASSWORD. And press enter
 32. Type in `exit()` and press enter. Go back to the previous tab/window where the Azure Dashbaord is
-
 ![image](./33.png)
 
 33. Click on the URL and visit your new site LIVE on the internet!
