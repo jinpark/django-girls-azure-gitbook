@@ -13,14 +13,15 @@
 1. Click on `+ New`
 2. Click on `Web + Mobile`
 3. Click on `Web App`
- ![image](./04-09.png)
+ ![image](./04-09-new.png)
  
- 4. Change your app name to something you want. The URL will be `whatyouchoose.azurewebsites.net`
- 5. Add the same name for the `New Resource Group Name`
- 6. Click on `App Service`
- 7. Click on `+ Create New`
- 8. Add an `App Service Plan` name. I suggest `east-asia`
- 9. Click on `Locaion` and choose `East Asia` and click on c
+ 
+ 4. Change your app name to something you want. The URL will be `whatyouchoose.azurewebsites.net` and add the same name for the `New Resource Group Name`
+ 5. Click on `App Service` and click on `+ Create New` in the next tab
+ 6. Add an `App Service Plan` name. I suggest `east-asia`
+ 7. Click on `Location` and choose `East Asia`
+ 8. Click on `OK`
+ 9. Click on `Pin to dashboard` and then click `Create`
  ![image](./10-14.png)
  
  10. After i
