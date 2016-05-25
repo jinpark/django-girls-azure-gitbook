@@ -42,3 +42,14 @@
  
  18. Wait for your project to build. It will take a few minutes. Take a break!
 
+![image](./19-20.png)
+
+19. Click on the `Microsoft Azure` logo to go back to the dashboard
+20. Click on your newly created app.
+
+![image](./21-23.png)
+
+21. Click on `Tools`
+22. Click on `Kudu`
+23. Click on `Go ->`
+
