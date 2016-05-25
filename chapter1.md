@@ -1,3 +1,5 @@
-# First Chapter
+# Deploying Your Django App on Azure
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## Prerequisites
+- Have an active Microsoft Azure account with webapp access
+- 
