@@ -1,5 +1,5 @@
 # Summary
 
 * [Deploying to Azure](README.md)
-* Visual Studio Code
+* [Visual Studio Code](visual_studio_code.md)
 
