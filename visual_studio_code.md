@@ -7,7 +7,7 @@
 3. Press ⌘P (for mac) or ctrl+p (for linux/windows) and type in `ext install python`.
 4. It will show ![](vs-python.png)
 
-5. Press enter and the python extension will show up
+5. Press enter and the python extension will install.
 
 ## Tips
 
